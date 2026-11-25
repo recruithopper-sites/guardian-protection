@@ -1,6 +1,6 @@
-# {{BRAND_NAME}} Website
+# Guardian Protection Website
 
-Recruiting website for {{BRAND_NAME}} ({{RECRUITING_FOCUS}}). Live at https://{{DOMAIN}} (GitHub Pages). Created with Recruit Hopper on {{TODAY}}.
+Recruiting website for Guardian Protection (Sales). Live at https://guardian-protection.sites.recruithopper.com (GitHub Pages). Created with Recruit Hopper on November 25, 2026.
 
 ## Editing without a computer setup
 
@@ -17,7 +17,7 @@ Everything can be edited right on GitHub:
 | Legal name, email, phone, address | `script.js`, the `SITE` block at the top, **and** the same text in `index.html`, `privacy.html` and `terms.html` |
 | Page text | `index.html` |
 | Colors, fonts, spacing | `styles.css` |
-| Logo | `assets/{{LOGO_FILE}}` (replace with a file of the same name) |
+| Logo | `assets/logo.webp` (replace with a file of the same name) |
 
 ## 10DLC / A2P SMS compliance
 
@@ -28,16 +28,16 @@ The site includes what carriers and The Campaign Registry check for:
 - **SMS Terms & Conditions** (`terms.html`) with program description, frequency, rates, STOP/HELP, carrier disclaimer and contact info.
 - **Business contact info** in the contact section and on both legal pages.
 
-The legal name must match your registered brand exactly: **{{LEGAL_NAME}}**.
+The legal name must match your registered brand exactly: **Guardian Protection LLC**.
 
 Campaign fields you can paste into Telnyx:
 
-- **Website**: https://{{DOMAIN}}
-- **Privacy Policy URL**: https://{{DOMAIN}}/privacy.html
-- **Terms URL**: https://{{DOMAIN}}/terms.html
-- **Opt-in workflow**: {{OPT_IN_WORKFLOW}}
-- **Sample message 1**: {{SAMPLE_MESSAGE_1}}
-- **Sample message 2**: {{SAMPLE_MESSAGE_2}}
-- **HELP reply**: {{HELP_REPLY}}
-- **STOP reply**: {{STOP_REPLY}}
-- **Opt-in confirmation**: {{OPT_IN_REPLY}}
+- **Website**: https://guardian-protection.sites.recruithopper.com
+- **Privacy Policy URL**: https://guardian-protection.sites.recruithopper.com/privacy.html
+- **Terms URL**: https://guardian-protection.sites.recruithopper.com/terms.html
+- **Opt-in workflow**: Users opt in via the contact form at https://guardian-protection.sites.recruithopper.com/#contact by checking an optional, unchecked SMS consent checkbox and providing their mobile number. Disclosures include brand name, message frequency, msg &amp; data rates, HELP/STOP, and links to the Privacy Policy (https://guardian-protection.sites.recruithopper.com/privacy.html) and Terms (https://guardian-protection.sites.recruithopper.com/terms.html).
+- **Sample message 1**: Guardian Protection: Hi {name}, your interview with {company} is confirmed for {date} at {time}. Reply STOP to opt out.
+- **Sample message 2**: Guardian Protection: New sales role in {city}: {title}. Interested? Reply YES and we will reach out. Reply STOP to opt out, HELP for help.
+- **HELP reply**: Guardian Protection: For help, email mwilson.trfs@gmail.com or call (770) 301-0711. Msg &amp; data rates may apply. Reply STOP to opt out.
+- **STOP reply**: Guardian Protection: You have been unsubscribed and will receive no further messages. Reply START to resubscribe.
+- **Opt-in confirmation**: Guardian Protection: Thanks for subscribing to recruiting updates. Msg frequency may vary. Msg &amp; data rates may apply. Consent is not a condition of purchase. Reply HELP for help, STOP to opt out.

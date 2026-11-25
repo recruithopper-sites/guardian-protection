@@ -2,10 +2,10 @@
 // For 10DLC approval, legalName must match the legal business name registered
 // with The Campaign Registry (exactly as on your EIN / IRS paperwork).
 const SITE = {
-  legalName: {{LEGAL_NAME_JS}},
-  email: {{EMAIL_JS}},
-  phone: {{PHONE_JS}},
-  address: {{ADDRESS_JS}}
+  legalName: "Guardian Protection LLC",
+  email: "mwilson.trfs@gmail.com",
+  phone: "(770) 301-0711",
+  address: "610 Glendalough Court"
 };
 // ==============================================================================
 
